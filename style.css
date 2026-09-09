@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Siphiwe</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="projects.html">Projects</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section class="content">
+    <h2>About Me</h2>
+    <p>I'm Siphiwe, an aspiring tech professional building my skills through the AI Skills Acceleration (ASA 18) program. I also support grade 7 learners, which has strengthened how I break down complex ideas into clear, understandable steps — a skill that carries directly into coding and development work.</p>
+    <p>I'm passionate about growing into a skilled tech professional, combining strong problem-solving abilities with hands-on coding skills to build practical, real-world solutions.</p>
+  </section>
+</body>
+</html>
+
+
